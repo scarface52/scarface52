@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi there, I'm Serkan Can!
+
+I am currently studying **Computer Engineering** with an interest in video game development.
 
 <!--
 **scarface52/scarface52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
